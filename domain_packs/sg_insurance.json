@@ -1,0 +1,75 @@
+{
+  "domain": "sg_insurance",
+  "questions": [
+    {
+      "text": "Which authority regulates insurers in Singapore?",
+      "paraphrases": [
+        "Who is the primary regulator of insurance companies in Singapore?",
+        "What body oversees insurance regulation in Singapore?"
+      ]
+    },
+    {
+      "text": "Under Singapore law, do direct life or general insurers require a licence to carry on business?",
+      "paraphrases": [
+        "Is a licence mandatory for insurers to operate in Singapore?",
+        "Must an insurer obtain regulatory authorisation before carrying on insurance business in Singapore?"
+      ]
+    },
+    {
+      "text": "Are insurance intermediaries required to be registered or licensed before they can arrange policies in Singapore?",
+      "paraphrases": [
+        "Do agents or brokers in Singapore need regulatory approval to place insurance?",
+        "Is there a licensing or registration requirement for insurance intermediaries in Singapore?"
+      ]
+    },
+    {
+      "text": "What ongoing obligations typically apply to insurers regarding anti-money laundering and countering the financing of terrorism (AML/CFT) in Singapore?",
+      "paraphrases": [
+        "Which AML/CFT requirements must insurers comply with in Singapore?",
+        "What are the core AML/CFT controls expected of insurers in Singapore?"
+      ]
+    },
+    {
+      "text": "Does Singapore’s PDPA require insurers to obtain consent before collecting, using, or disclosing a policyholder’s personal data?",
+      "paraphrases": [
+        "Is consent required under the PDPA for insurers to process policyholders’ personal data?",
+        "Do insurers need PDPA consent to collect or share customers’ data in Singapore?"
+      ]
+    },
+    {
+      "text": "Are there mandatory disclosures or product summaries that must be provided to consumers before purchasing certain insurance policies in Singapore?",
+      "paraphrases": [
+        "Must insurers provide specific pre-sale information to retail customers in Singapore?",
+        "Are product summaries or benefit illustrations required before policy purchase?"
+      ]
+    },
+    {
+      "text": "Are insurers required to notify MAS of certain events, such as changes in key appointment holders or capital adequacy breaches?",
+      "paraphrases": [
+        "Do insurers have MAS notification obligations for significant events?",
+        "Must insurers report key changes or prudential issues to the regulator?"
+      ]
+    },
+    {
+      "text": "Are there restrictions on using NRIC numbers in insurance documents under Singapore data protection rules?",
+      "paraphrases": [
+        "Does PDPC guidance limit collection of NRIC for insurance purposes?",
+        "Are insurers restricted from capturing NRIC numbers in forms?"
+      ]
+    },
+    {
+      "text": "Do insurers in Singapore have requirements for handling complaints and maintaining records of complaints?",
+      "paraphrases": [
+        "Are complaint handling procedures mandatory for insurers in Singapore?",
+        "Must insurers keep complaint logs or records under regulation?"
+      ]
+    },
+    {
+      "text": "Are there conduct rules on advertising or marketing of insurance products to consumers in Singapore?",
+      "paraphrases": [
+        "Do insurers have guidelines to follow when advertising to retail customers in Singapore?",
+        "Are there rules governing the marketing content of insurance products?"
+      ]
+    }
+  ]
+}
