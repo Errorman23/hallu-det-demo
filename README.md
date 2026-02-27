@@ -1,5 +1,10 @@
 # Hallucination Detection Demo Applications
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.x-FF4B4B.svg)](https://streamlit.io)
+[![LLM](https://img.shields.io/badge/LLM-Groq%20%7C%20OpenAI-green.svg)](https://console.groq.com)
+
 This repository contains two Streamlit applications that implement hallucination detection in Large Language Models (LLMs) using consistency checking methodology. The system generates multiple responses and evaluates their consistency at the claim level to detect potential hallucinations.
 
 ## Overview
@@ -41,7 +46,7 @@ Both applications use the temperature variation method:
 ### Step 1: Navigate to the Directory
 
 ```bash
-cd hallu_det_demo
+cd hallu-det-demo
 ```
 
 ### Step 2: Create Virtual Environment
@@ -240,5 +245,23 @@ Results are exported as JSON with the following structure:
 - **Visualization**: Plotly for interactive charts
 
 ## License
+
+This project is licensed under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for the full license text.
+
+```
+Copyright 2026 hallu-det-demo Contributors
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
 
 This demo is provided for educational and research purposes. Please ensure compliance with API terms of service when using third-party models.
